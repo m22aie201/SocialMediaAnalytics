@@ -1,4 +1,5 @@
 # SocialMediaAnalytics
+Code Repository: https://github.com/m22aie201/SocialMediaAnalytics
 
 1.	The code mainly contains four worker service instances and solution file is kept in SocialMediaAnalytics folder.
 	DistributionService would be acting as distributor or producer service. This service would be getting all messages where service would check for incoming messages and distribute accordingly. This service would be receiving messages from all sources. In our code, we have hardcoded messages.
